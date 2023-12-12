@@ -1,0 +1,47 @@
+body {
+	background: #F2E0C9;
+	font-family: Arial, Helvetica, sans-serif;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.assignment {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.assign img {
+	width: 200px;
+	border: 2px solid midnightblue;
+	margin-right: 20px;
+	border-radius: 5px;
+	display: block;
+	margin: auto;
+}
+
+.assign {
+	width: 20%;
+	box-shadow: 8px 8px #401201;
+	display: block;
+	padding: 10px;
+	margin: 10px;
+	margin-bottom: 30px;
+	background: #BF8339;
+	border-radius: 20px;
+}
+
+h1 {
+	width: 100%;
+	display: block;
+	color: #401201;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.assign a:hover {
+	color: #401201;
+}
